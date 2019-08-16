@@ -1,0 +1,20 @@
+Q:-> why we use polymorphism.
+Q:-> RequestDispatcher Vs Response.sendRedirect
+Q:-> Exception Architecture and Error(define some error) 
+Q:-> StringBuffer Vs StringBuilder
+Q:-> why we use Recursion
+Q:-> what is the purpose of System class
+Q:-> Stackoverflow Error in Recursion
+Q:-> Singleton Class Vs Singleton object
+Q:-> ArrayList Vs LinkedList 
+     (which is fast in searching) 
+     and 
+     (removing Data from list) 
+Q:-> HashTable and Vector 
+Q:-> String immutable
+Q:-> Abstract class Vs Interface
+     (where we use)
+Q:-> How can we create immutable class
+Q:-> How can we add two number without using plus operator
+Q:-> what is Transaction ?
+Q:-> How to shut down jvm
